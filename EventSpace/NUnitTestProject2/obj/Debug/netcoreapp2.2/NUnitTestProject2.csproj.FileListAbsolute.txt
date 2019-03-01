@@ -1,0 +1,17 @@
+C:\github\EventSpace\EventSpace\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\github\EventSpace\EventSpace\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\github\EventSpace\EventSpace\NUnitTestProject2\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\github\EventSpace\EventSpace\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnitTestProject2.deps.json
+C:\github\EventSpace\EventSpace\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnitTestProject2.runtimeconfig.json
+C:\github\EventSpace\EventSpace\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnitTestProject2.runtimeconfig.dev.json
+C:\github\EventSpace\EventSpace\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnitTestProject2.dll
+C:\github\EventSpace\EventSpace\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnitTestProject2.pdb
+C:\github\EventSpace\EventSpace\NUnitTestProject2\bin\Debug\netcoreapp2.2\EventSpace.dll
+C:\github\EventSpace\EventSpace\NUnitTestProject2\bin\Debug\netcoreapp2.2\EventSpace.pdb
+C:\github\EventSpace\EventSpace\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.csprojAssemblyReference.cache
+C:\github\EventSpace\EventSpace\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.csproj.CoreCompileInputs.cache
+C:\github\EventSpace\EventSpace\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.AssemblyInfoInputs.cache
+C:\github\EventSpace\EventSpace\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.AssemblyInfo.cs
+C:\github\EventSpace\EventSpace\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.csproj.CopyComplete
+C:\github\EventSpace\EventSpace\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.dll
+C:\github\EventSpace\EventSpace\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.pdb

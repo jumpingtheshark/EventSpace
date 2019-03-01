@@ -1,0 +1,11 @@
+C:\github\EventSpace\EventSpace\EventSpace\bin\Debug\netcoreapp2.2\EventSpace.deps.json
+C:\github\EventSpace\EventSpace\EventSpace\bin\Debug\netcoreapp2.2\EventSpace.runtimeconfig.json
+C:\github\EventSpace\EventSpace\EventSpace\bin\Debug\netcoreapp2.2\EventSpace.runtimeconfig.dev.json
+C:\github\EventSpace\EventSpace\EventSpace\bin\Debug\netcoreapp2.2\EventSpace.dll
+C:\github\EventSpace\EventSpace\EventSpace\obj\Debug\netcoreapp2.2\EventSpace.csproj.CoreCompileInputs.cache
+C:\github\EventSpace\EventSpace\EventSpace\obj\Debug\netcoreapp2.2\EventSpace.AssemblyInfoInputs.cache
+C:\github\EventSpace\EventSpace\EventSpace\obj\Debug\netcoreapp2.2\EventSpace.AssemblyInfo.cs
+C:\github\EventSpace\EventSpace\EventSpace\bin\Debug\netcoreapp2.2\EventSpace.pdb
+C:\github\EventSpace\EventSpace\EventSpace\obj\Debug\netcoreapp2.2\EventSpace.dll
+C:\github\EventSpace\EventSpace\EventSpace\obj\Debug\netcoreapp2.2\EventSpace.pdb
+C:\github\EventSpace\EventSpace\EventSpace\obj\Debug\netcoreapp2.2\EventSpace.csprojAssemblyReference.cache

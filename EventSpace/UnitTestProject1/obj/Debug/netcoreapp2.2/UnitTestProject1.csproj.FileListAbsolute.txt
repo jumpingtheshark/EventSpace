@@ -1,0 +1,17 @@
+C:\github\EventSpace\EventSpace\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\github\EventSpace\EventSpace\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\github\EventSpace\EventSpace\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\github\EventSpace\EventSpace\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.deps.json
+C:\github\EventSpace\EventSpace\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.runtimeconfig.json
+C:\github\EventSpace\EventSpace\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.runtimeconfig.dev.json
+C:\github\EventSpace\EventSpace\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.dll
+C:\github\EventSpace\EventSpace\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.pdb
+C:\github\EventSpace\EventSpace\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csprojAssemblyReference.cache
+C:\github\EventSpace\EventSpace\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\github\EventSpace\EventSpace\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfoInputs.cache
+C:\github\EventSpace\EventSpace\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfo.cs
+C:\github\EventSpace\EventSpace\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.dll
+C:\github\EventSpace\EventSpace\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.pdb
+C:\github\EventSpace\EventSpace\UnitTestProject1\bin\Debug\netcoreapp2.2\EventSpace.dll
+C:\github\EventSpace\EventSpace\UnitTestProject1\bin\Debug\netcoreapp2.2\EventSpace.pdb
+C:\github\EventSpace\EventSpace\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csproj.CopyComplete
