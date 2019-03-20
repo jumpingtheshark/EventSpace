@@ -1,0 +1,14 @@
+C:\github\EventSpace\EventSpace\EventsAPI\bin\Debug\netcoreapp2.2\EventsAPI.deps.json
+C:\github\EventSpace\EventSpace\EventsAPI\bin\Debug\netcoreapp2.2\EventsAPI.runtimeconfig.json
+C:\github\EventSpace\EventSpace\EventsAPI\bin\Debug\netcoreapp2.2\EventsAPI.runtimeconfig.dev.json
+C:\github\EventSpace\EventSpace\EventsAPI\bin\Debug\netcoreapp2.2\EventsAPI.dll
+C:\github\EventSpace\EventSpace\EventsAPI\bin\Debug\netcoreapp2.2\EventsAPI.pdb
+C:\github\EventSpace\EventSpace\EventsAPI\obj\Debug\netcoreapp2.2\EventsAPI.csprojAssemblyReference.cache
+C:\github\EventSpace\EventSpace\EventsAPI\obj\Debug\netcoreapp2.2\EventsAPI.csproj.CoreCompileInputs.cache
+C:\github\EventSpace\EventSpace\EventsAPI\obj\Debug\netcoreapp2.2\EventsAPI.RazorAssemblyInfo.cache
+C:\github\EventSpace\EventSpace\EventsAPI\obj\Debug\netcoreapp2.2\EventsAPI.RazorAssemblyInfo.cs
+C:\github\EventSpace\EventSpace\EventsAPI\obj\Debug\netcoreapp2.2\EventsAPI.AssemblyInfoInputs.cache
+C:\github\EventSpace\EventSpace\EventsAPI\obj\Debug\netcoreapp2.2\EventsAPI.AssemblyInfo.cs
+C:\github\EventSpace\EventSpace\EventsAPI\obj\Debug\netcoreapp2.2\EventsAPI.RazorTargetAssemblyInfo.cache
+C:\github\EventSpace\EventSpace\EventsAPI\obj\Debug\netcoreapp2.2\EventsAPI.dll
+C:\github\EventSpace\EventSpace\EventsAPI\obj\Debug\netcoreapp2.2\EventsAPI.pdb
