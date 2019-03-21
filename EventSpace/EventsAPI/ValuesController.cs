@@ -11,9 +11,17 @@ namespace EventsAPI
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
+       
+        [HttpGet("A")]
+        public string A()
+        {
+            return "A";
+
+        }
+        
         // GET: api/<controller>
-        [HttpGet]
-        public string Hi()
+        [HttpGet("hi")]
+        public string Hi(int id)
         {
 
 
