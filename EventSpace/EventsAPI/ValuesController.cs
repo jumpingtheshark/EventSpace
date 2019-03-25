@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using System.Text;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -11,14 +12,49 @@ namespace EventsAPI
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
-       
+        /*
+ Request.Headers["XYZComponent"].Count() > 0)
+
+         */
         [HttpGet("A")]
         public string A()
+
         {
-            return "A";
+
+            StringBuilder sb = new StringBuilder();
+            foreach (var r in Request.Headers)
+            {
+                sb.Append(r.Key);
+                sb.Append(Environment.NewLine);
+                sb.Append(r.Value);
+                sb.Append(Environment.NewLine);
+                sb.Append(Environment.NewLine);
+                sb.Append(Environment.NewLine);
+                sb.Append(Environment.NewLine);
+
+
+
+            }
+
+            return sb.ToString();
 
         }
-        
+
+
+
+        [HttpGet("B")]
+        public string B()
+
+        {
+
+            StringBuilder sb = new StringBuilder();
+            string s = Request.Body.ToString();
+            sb.Append(s);
+
+            return sb.ToString();
+
+        }
+
         // GET: api/<controller>
         [HttpGet("hi")]
         public string Hi(int id)

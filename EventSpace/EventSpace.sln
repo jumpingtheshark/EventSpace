@@ -14,7 +14,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitTestProject2", "NUnitT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSpaceWeb", "EventSpaceWeb\EventSpaceWeb.csproj", "{402BA551-E6EE-4E83-ADFD-98DB56D3C8D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsAPI", "EventsAPI\EventsAPI.csproj", "{37DB9FB2-CE49-4667-9D5E-9277BAFBEDFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventsAPI", "EventsAPI\EventsAPI.csproj", "{37DB9FB2-CE49-4667-9D5E-9277BAFBEDFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

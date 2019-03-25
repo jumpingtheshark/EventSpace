@@ -11,11 +11,16 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace EventSpaceWeb
 {
+   
     public class Startup
     {
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+
+           
+            
+
         }
 
         public IConfiguration Configuration { get; }
@@ -32,6 +37,8 @@ namespace EventSpaceWeb
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,8 +55,12 @@ namespace EventSpaceWeb
 
             app.UseStaticFiles();
             app.UseCookiePolicy();
-
+   
+          
             app.UseMvc();
+
+            
+
         }
     }
 }

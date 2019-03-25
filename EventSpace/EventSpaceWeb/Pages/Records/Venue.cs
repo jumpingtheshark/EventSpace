@@ -13,7 +13,8 @@ namespace EventSpaceWeb.Pages.Records
 
         public string city  { get; set; }
         public string state { get; set; }
-        
+        public string zip { get; set; }
+
 
 
 
